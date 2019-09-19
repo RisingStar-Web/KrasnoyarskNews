@@ -11,7 +11,7 @@ import UIKit
 extension UIColor {
 
     class func color_redMain() -> UIColor {
-        return hexStringToUIColor("#f81000")
+        return hexStringToUIColor("#914853")
     }
     
     class func color_grayMain() -> UIColor {
